@@ -1,4 +1,4 @@
-# Hi, I'm Racheal Acio
+# Hi, I'm Acio Racheal
 
 **AI Engineer | Full-Stack Developer | Kampala, Uganda**
 
