@@ -36,7 +36,7 @@ Currently open to opportunities in AI Engineering and Full-Stack Development.
 **Frontend:** Next.js · React · Streamlit
 **Backend:** Django · REST APIs · Node.js (basic)
 **Databases:** Supabase (PostgreSQL) · SQLite · ChromaDB
-**Tools:** Git · GitHub · Render · Agile
+**Tools:** Git · GitHub · Render · Vercel · Agile
 
 ---
 
